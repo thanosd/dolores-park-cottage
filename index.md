@@ -27,3 +27,31 @@
 * $3,995 per month, includes trash
 * $5,900 deposit 
 * $50/tenant for credit check (with application)
+
+## Contact
+* Text: 415 692 5383
+
+## Images
+
+![Figure 1-1](images/figure1-1.png "Figure 1-1")
+
+
+![foo](images/bedr.jpg "")
+![foo](images/broom2.jpg "")
+![foo](images/img_3407.jpg "")
+![foo](images/img_3408.jpg "")
+![foo](images/img_3409.jpg "")
+![foo](images/img_3418.jpg "")
+![foo](images/img_3421.jpg "")
+![foo](images/img_3423.jpg "")
+![foo](images/img_3424.jpg "")
+![foo](images/img_3425.jpg "")
+![foo](images/img_3436.jpg "")
+![foo](images/img_3437.jpg "")
+![foo](images/img_3438.jpg "")
+![foo](images/img_3439.jpg "")
+![foo](images/img_3440.jpg "")
+![foo](images/img_3442.jpg "")
+![foo](images/img_3443.jpg "")
+![foo](images/img_3445.jpg "")
+![foo](images/lroom.jpg "")
