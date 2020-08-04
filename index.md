@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# 2BD/1BA cottage, steps from Mission Dolores Park - For Rent
 
-You can use the [editor on GitHub](https://github.com/thanosd/dolores-park-cottage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Cottage Description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* 3826A 18th Street
+* Approx. 900sq ft cottage, completely detached from the main house
+* Located in the rear of the lot, behind the main building
+* Quiet location, looks into lovely, green yard
+* Spacious, bright living room
+* Skylights throughout the cottage
+* Hardwood floors everywhere
+* Second bedroom is on attic floor (slanted ceilings). Great for kids or office.
+* Appliances in unit: Washer, dryer, Gas range, Dishwasher, Refrigerator, Gas Fireplace
+* Ring Doorbell & buzzer for front gate
+* Forced air heating, air-conditioning in the attic
+* Lots of storage room in the attic cupboards
+* Pets OK
+* Street parking only
 
-### Markdown
+## Nearby amenities
+* Steps away from Mission Dolores park
+* Steps away from J-train, 10 min walk to BART
+* Short walk to hundreds of restaurants and shops (Castro & Mission/Valencia)
+* [Map](https://www.google.com/maps?f=q&source=s_q&hl=en&geocode&q=3826A+18th+St,+San+Francisco&sll=37.763191,-122.427556&sspn=0.013672,0.017509&ie=UTF8&ll=37.761199,-122.429237&spn=0.013673,0.017509&z=16&iwloc=A) (opens in new window)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thanosd/dolores-park-cottage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Price
+* $3,995 per month, includes trash
+* $5,900 deposit 
+* $50/tenant for credit check (with application)
