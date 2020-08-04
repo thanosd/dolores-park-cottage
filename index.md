@@ -33,9 +33,6 @@
 
 ## Images
 
-![Figure 1-1](images/figure1-1.png "Figure 1-1")
-
-
 ![foo](images/bedr.jpg "")
 ![foo](images/broom2.jpg "")
 ![foo](images/img_3407.jpg "")
