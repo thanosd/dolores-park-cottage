@@ -29,7 +29,7 @@
 * $50/tenant for credit check (with application)
 
 ## Contact
-* Text: 415 692 5383
+* Text: 415 692 1350
 
 ## Images
 
