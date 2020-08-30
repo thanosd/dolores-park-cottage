@@ -1,4 +1,4 @@
-# 2BD/1BA cottage, steps from Mission Dolores Park - For Rent
+# 2BD/1BA cottage, steps from Dolores Park - For Rent
 
 ## Cottage Description
 
