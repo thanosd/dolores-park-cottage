@@ -24,9 +24,9 @@
 * [Map](https://www.google.com/maps?f=q&source=s_q&hl=en&geocode&q=3826A+18th+St,+San+Francisco&sll=37.763191,-122.427556&sspn=0.013672,0.017509&ie=UTF8&ll=37.761199,-122.429237&spn=0.013673,0.017509&z=16&iwloc=A) (opens in new window)
 
 ## Price
-* $3,495 per month, includes trash
-* $5,900 deposit 
-* $50/tenant for credit check (with application)
+* $3,195 per month, includes trash
+* $5,000 deposit 
+* $40/tenant for credit check (with application)
 
 ## Contact
 * Text: 415 692 1350
